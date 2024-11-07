@@ -13,8 +13,8 @@ Easy Setup – plug in the index.html and index.js, and you’re ready to start 
 
 **📂 Project Structure 📂**
 
-**index.html **– sets up the buttons and styling.
+index.html – sets up the buttons and styling.
 
 
-**index.js  **– includes the JavaScript functions for setting predefined colours and generating random ones.
+index.js  – includes the JavaScript functions for setting predefined colours and generating random ones.
 Feel free to tweak and personalise the code – it’s a great starting point for practising JavaScript DOM manipulation and creating interactive UI features!
