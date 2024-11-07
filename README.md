@@ -1,6 +1,7 @@
 **🎨 Colour Flipper 🎨**
 
-Welcome to Colour Flipper 1 – a simple, fun project that lets you change your webpage background with a single click! 🌈 With preset colours and a randomiser, this colour flipper makes it easy to add a splash of vibrancy to your screen.
+Welcome to Colour Flipper 1 – a simple, fun project that lets you change your webpage background with a single click! 
+🌈 With preset colours and a randomiser, this colour flipper makes it easy to add a splash of vibrancy to your screen.
 
 **✨ Features ✨**
 
